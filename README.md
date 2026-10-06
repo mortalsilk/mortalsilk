@@ -1,4 +1,4 @@
-Working on SI enabled operational backend systems.
+Working on SI enabled operational backend systems. Studying CS at ELTE, Hungary. 
 
 ## Currently building 
 - **Fleet Telemetry Platform** — Real-time backend for ingesting, processing, storing, and alerting on vehicle and industrial telemetry.
