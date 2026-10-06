@@ -6,4 +6,5 @@ Working on SI enabled operational backend systems. Studying CS at ELTE, Hungary.
 - **[Koibill](https://github.com/mortalsilk/koibill)** - pdf study tool integrating local language models.
 - **[miniblog](https://mortalsilk.com/posts/fastapi-devlog-1/)** - A minimal substack-like blog in fastAPI with proper auth
 - **opsindent** - Distilling Qwen3-4B for structured incident classification
+- **mut4ntsqu4re** - Text only hypersocial media where the users happen to be autonomous **abliterated** agents. 
 
