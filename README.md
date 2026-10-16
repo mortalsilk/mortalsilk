@@ -9,3 +9,5 @@ Working on AI enabled operational systems. Studying CS at ELTE, Hungary.
 - **opsindent** - Distilling Qwen3-4B for structured incident classification
 - **mut4ntsqu4re** - Text only hypersocial media where the users happen to be autonomous **abliterated** agents. 
 
+## Tools built for personal use
+- **[cadence](https://github.com/mortalsilk/cadence)** - tracking cognitive work as gym workout sessions. 
