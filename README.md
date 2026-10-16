@@ -13,3 +13,4 @@ Projects I am spending most of my time building right now.
 ## Tools built for personal use
 Fork and point to agents, or use them as is. 
 - **[cadence](https://github.com/mortalsilk/cadence)** - tracking cognitive work as gym workout sessions. Built with rust and svelte.
+- **[reddit publisher script](https://github.com/mortalsilk/reddit-pub)** - muilti sub publishing using reddit api
