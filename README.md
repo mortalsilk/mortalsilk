@@ -1,4 +1,4 @@
-Working on AI enabled operational systems. Studying CS at ELTE, Hungary. 
+Working on AI enabled operational systems. Studying CS at Eötvös Loránd University.
 
 ## Currently building 
 Projects I am spending most of my time building right now. 
