@@ -1,6 +1,7 @@
 Working on AI enabled operational systems. Studying CS at ELTE, Hungary. 
 
 ## Currently building 
+Projects I am spending most of my time building right now. 
 - **Fleet Telemetry Platform** — Real-time backend for ingesting, processing, storing, and alerting on vehicle and industrial telemetry.
 - **Factory Operations Backend** — Backend system for managing production lines, machines, work orders, inventory, maintenance, and downtime.
 - **[Koibill](https://github.com/mortalsilk/koibill)** - pdf study tool integrating local language models.
