@@ -10,4 +10,5 @@ Working on AI enabled operational systems. Studying CS at ELTE, Hungary.
 - **mut4ntsqu4re** - Text only hypersocial media where the users happen to be autonomous **abliterated** agents. 
 
 ## Tools built for personal use
-- **[cadence](https://github.com/mortalsilk/cadence)** - tracking cognitive work as gym workout sessions. 
+Fork and point to agents, or use them as is. 
+- **[cadence](https://github.com/mortalsilk/cadence)** - tracking cognitive work as gym workout sessions. Built with rust and svelte.
